@@ -2,9 +2,13 @@
 
 Rendu d'informatique ESGI
 
-Installer les dépendances python :
+Installer les dépendances python si vous voulez lancer les playbooks :
 ```bash
-pip3 install qiskit matplotlib panda
+pip3 install qiskit \
+             matplotlib \
+             panda \
+             qiskit-aer \
+             pylatexenc
 ```
 
 Liste des rendus :
